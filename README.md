@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First if you have a clean npm installation, install it using the following command:
+First if you have a clean npm installation, install NextJS using the following command:
 
 ```bash
 npm install nextjs
